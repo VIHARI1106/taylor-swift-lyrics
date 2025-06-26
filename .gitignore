@@ -1,0 +1,4 @@
+# Prevent secrets from being pushed
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
